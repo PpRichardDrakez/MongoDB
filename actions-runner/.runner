@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "RICARDO",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/x28EnItPA4NZBPq8JaaAYC9AAmLNAKZTvJKOw8SoEJYlZkdnYo/",
+  "gitHubUrl": "https://github.com/PpRichardDrakez/MongoDB",
+  "workFolder": "_work"
+}

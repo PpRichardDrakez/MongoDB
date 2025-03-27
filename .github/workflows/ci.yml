@@ -32,3 +32,4 @@ jobs:
 
       - name: Ejecutar pruebas con Jest
         run: npm test
+runs-on: self-hosted

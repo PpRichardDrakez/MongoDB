@@ -1,0 +1,20 @@
+{
+  "name": "testeo_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+  "setupFilesAfterEnv": ["<rootDir>/tests/setup.js"]
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
